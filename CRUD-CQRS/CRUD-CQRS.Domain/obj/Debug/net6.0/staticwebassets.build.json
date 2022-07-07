@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aFivyWA1kD4p/AOMQ4IiZV07Jj8gItsbuItpcIjJkfE=",
+  "Source": "CRUD.CQRS.Domain",
+  "BasePath": "_content/CRUD.CQRS.Domain",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

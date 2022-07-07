@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LpSD5rw1I3VpEVHAUp91mD4btCYbONu72QTDctT9mcU=",
+  "Source": "CRUD.CQRS.ApplicationService",
+  "BasePath": "_content/CRUD.CQRS.ApplicationService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

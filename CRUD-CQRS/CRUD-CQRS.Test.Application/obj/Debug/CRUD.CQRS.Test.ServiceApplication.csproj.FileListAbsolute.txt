@@ -1,0 +1,2 @@
+G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Test.Application\obj\Debug\CRUD-CQRS.Test.Application.dll
+G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Test.Application\obj\Debug\CRUD-CQRS.Test.Application.pdb
