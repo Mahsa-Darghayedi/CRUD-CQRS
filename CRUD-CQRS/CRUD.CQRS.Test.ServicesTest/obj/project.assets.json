@@ -8,6 +8,18 @@
           "build/netstandard1.0/coverlet.collector.targets": {}
         }
       },
+      "libphonenumber-csharp/8.12.50": {
+        "type": "package",
+        "dependencies": {
+          "System.Collections.Immutable": "1.7.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/PhoneNumbers.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/PhoneNumbers.dll": {}
+        }
+      },
       "Microsoft.CodeCoverage/16.11.0": {
         "type": "package",
         "compile": {
@@ -663,6 +675,15 @@
         },
         "runtime": {
           "lib/netstandard1.3/System.Collections.Concurrent.dll": {}
+        }
+      },
+      "System.Collections.Immutable/1.7.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/System.Collections.Immutable.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Collections.Immutable.dll": {}
         }
       },
       "System.Collections.NonGeneric/4.0.1": {
@@ -1780,7 +1801,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "System.Net.Mail": "1.0.0-rtm-00002"
+          "System.Net.Mail": "1.0.0-rtm-00002",
+          "libphonenumber-csharp": "8.12.50"
         },
         "compile": {
           "bin/placeholder/CRUD.CQRS.ApplicationService.dll": {}
@@ -1844,6 +1866,23 @@
         "coverlet-icon.png",
         "coverlet.collector.3.1.0.nupkg.sha512",
         "coverlet.collector.nuspec"
+      ]
+    },
+    "libphonenumber-csharp/8.12.50": {
+      "sha512": "KUx4gWq17UPHrKJAIAzbusnDwSsN8sn8I9elMp19u2HjWrPdVm+FMBxBoJU0ajUMKP4nwXMuW0EuA3M5ZptPdA==",
+      "type": "package",
+      "path": "libphonenumber-csharp/8.12.50",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net462/PhoneNumbers.dll",
+        "lib/net462/PhoneNumbers.xml",
+        "lib/netstandard2.0/PhoneNumbers.dll",
+        "lib/netstandard2.0/PhoneNumbers.xml",
+        "lib/portable-net45+win8+wp8+wpa81/PhoneNumbers.dll",
+        "lib/portable-net45+win8+wp8+wpa81/PhoneNumbers.xml",
+        "libphonenumber-csharp.8.12.50.nupkg.sha512",
+        "libphonenumber-csharp.nuspec"
       ]
     },
     "Microsoft.CodeCoverage/16.11.0": {
@@ -3024,6 +3063,32 @@
         "ref/xamarinwatchos10/_._",
         "system.collections.concurrent.4.3.0.nupkg.sha512",
         "system.collections.concurrent.nuspec"
+      ]
+    },
+    "System.Collections.Immutable/1.7.1": {
+      "sha512": "B43Zsz5EfMwyEbnObwRxW5u85fzJma3lrDeGcSAV1qkhSRTNY5uXAByTn9h9ddNdhM+4/YoLc/CI43umjwIl9Q==",
+      "type": "package",
+      "path": "system.collections.immutable/1.7.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/System.Collections.Immutable.dll",
+        "lib/net461/System.Collections.Immutable.xml",
+        "lib/netstandard1.0/System.Collections.Immutable.dll",
+        "lib/netstandard1.0/System.Collections.Immutable.xml",
+        "lib/netstandard1.3/System.Collections.Immutable.dll",
+        "lib/netstandard1.3/System.Collections.Immutable.xml",
+        "lib/netstandard2.0/System.Collections.Immutable.dll",
+        "lib/netstandard2.0/System.Collections.Immutable.xml",
+        "lib/portable-net45+win8+wp8+wpa81/System.Collections.Immutable.dll",
+        "lib/portable-net45+win8+wp8+wpa81/System.Collections.Immutable.xml",
+        "system.collections.immutable.1.7.1.nupkg.sha512",
+        "system.collections.immutable.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
       ]
     },
     "System.Collections.NonGeneric/4.0.1": {
@@ -6322,19 +6387,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ronak\\.nuget\\packages\\": {}
+    "C:\\Users\\M4hs4\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\.Net Projects M4h\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.Test.ServicesTest\\CRUD.CQRS.Test.ServicesTest.csproj",
+      "projectUniqueName": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.Test.ServicesTest\\CRUD.CQRS.Test.ServicesTest.csproj",
       "projectName": "CRUD.CQRS.Test.ServicesTest",
-      "projectPath": "G:\\.Net Projects M4h\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.Test.ServicesTest\\CRUD.CQRS.Test.ServicesTest.csproj",
-      "packagesPath": "C:\\Users\\Ronak\\.nuget\\packages\\",
-      "outputPath": "G:\\.Net Projects M4h\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.Test.ServicesTest\\obj\\",
+      "projectPath": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.Test.ServicesTest\\CRUD.CQRS.Test.ServicesTest.csproj",
+      "packagesPath": "C:\\Users\\M4hs4\\.nuget\\packages\\",
+      "outputPath": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.Test.ServicesTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ronak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\M4hs4\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6348,8 +6413,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "G:\\.Net Projects M4h\\CRUD-CQRS\\CRUD-CQRS\\Service\\CRUD.CQRS.ApplicationService.csproj": {
-              "projectPath": "G:\\.Net Projects M4h\\CRUD-CQRS\\CRUD-CQRS\\Service\\CRUD.CQRS.ApplicationService.csproj"
+            "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\Service\\CRUD.CQRS.ApplicationService.csproj": {
+              "projectPath": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\Service\\CRUD.CQRS.ApplicationService.csproj"
             }
           }
         }

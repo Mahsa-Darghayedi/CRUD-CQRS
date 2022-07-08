@@ -21,3 +21,27 @@ G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\Service\obj\Debug\net6.0\CRUD.CQRS.Appl
 G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\Service\obj\Debug\net6.0\CRUD.CQRS.ApplicationService.genruntimeconfig.cache
 G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\Service\bin\Debug\net6.0\Newtonsoft.Json.dll
 G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\Service\obj\Debug\net6.0\CRUD.CQRS.ApplicationService.csproj.CopyComplete
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Service\bin\Debug\net6.0\appsettings.Development.json
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Service\bin\Debug\net6.0\appsettings.json
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Service\bin\Debug\net6.0\CRUD.CQRS.ApplicationService.exe
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Service\bin\Debug\net6.0\CRUD.CQRS.ApplicationService.deps.json
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Service\bin\Debug\net6.0\CRUD.CQRS.ApplicationService.runtimeconfig.json
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Service\bin\Debug\net6.0\CRUD.CQRS.ApplicationService.dll
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Service\bin\Debug\net6.0\ref\CRUD.CQRS.ApplicationService.dll
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Service\bin\Debug\net6.0\CRUD.CQRS.ApplicationService.pdb
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Service\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Service\obj\Debug\net6.0\CRUD.CQRS.ApplicationService.csproj.AssemblyReference.cache
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Service\obj\Debug\net6.0\CRUD.CQRS.ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Service\obj\Debug\net6.0\CRUD.CQRS.ApplicationService.AssemblyInfoInputs.cache
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Service\obj\Debug\net6.0\CRUD.CQRS.ApplicationService.AssemblyInfo.cs
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Service\obj\Debug\net6.0\CRUD.CQRS.ApplicationService.csproj.CoreCompileInputs.cache
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Service\obj\Debug\net6.0\CRUD.CQRS.ApplicationService.MvcApplicationPartsAssemblyInfo.cache
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Service\obj\Debug\net6.0\staticwebassets.build.json
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Service\obj\Debug\net6.0\staticwebassets.development.json
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Service\obj\Debug\net6.0\scopedcss\bundle\CRUD.CQRS.ApplicationService.styles.css
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Service\obj\Debug\net6.0\CRUD.CQRS.ApplicationService.csproj.CopyComplete
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Service\obj\Debug\net6.0\CRUD.CQRS.ApplicationService.dll
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Service\obj\Debug\net6.0\ref\CRUD.CQRS.ApplicationService.dll
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Service\obj\Debug\net6.0\CRUD.CQRS.ApplicationService.pdb
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Service\obj\Debug\net6.0\CRUD.CQRS.ApplicationService.genruntimeconfig.cache
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Service\bin\Debug\net6.0\PhoneNumbers.dll

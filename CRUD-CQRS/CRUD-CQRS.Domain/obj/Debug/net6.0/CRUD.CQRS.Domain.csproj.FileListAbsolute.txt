@@ -19,3 +19,24 @@ G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Domain\obj\Debug\net6.0\CRUD.
 G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Domain\obj\Debug\net6.0\ref\CRUD.CQRS.Domain.dll
 G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Domain\obj\Debug\net6.0\CRUD.CQRS.Domain.pdb
 G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Domain\obj\Debug\net6.0\CRUD.CQRS.Domain.genruntimeconfig.cache
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Domain\bin\Debug\net6.0\appsettings.Development.json
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Domain\bin\Debug\net6.0\appsettings.json
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Domain\bin\Debug\net6.0\CRUD.CQRS.Domain.exe
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Domain\bin\Debug\net6.0\CRUD.CQRS.Domain.deps.json
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Domain\bin\Debug\net6.0\CRUD.CQRS.Domain.runtimeconfig.json
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Domain\bin\Debug\net6.0\CRUD.CQRS.Domain.dll
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Domain\bin\Debug\net6.0\ref\CRUD.CQRS.Domain.dll
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Domain\bin\Debug\net6.0\CRUD.CQRS.Domain.pdb
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Domain\obj\Debug\net6.0\CRUD.CQRS.Domain.csproj.AssemblyReference.cache
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Domain\obj\Debug\net6.0\CRUD.CQRS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Domain\obj\Debug\net6.0\CRUD.CQRS.Domain.AssemblyInfoInputs.cache
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Domain\obj\Debug\net6.0\CRUD.CQRS.Domain.AssemblyInfo.cs
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Domain\obj\Debug\net6.0\CRUD.CQRS.Domain.csproj.CoreCompileInputs.cache
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Domain\obj\Debug\net6.0\CRUD.CQRS.Domain.MvcApplicationPartsAssemblyInfo.cache
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Domain\obj\Debug\net6.0\staticwebassets.build.json
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Domain\obj\Debug\net6.0\staticwebassets.development.json
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Domain\obj\Debug\net6.0\scopedcss\bundle\CRUD.CQRS.Domain.styles.css
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Domain\obj\Debug\net6.0\CRUD.CQRS.Domain.dll
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Domain\obj\Debug\net6.0\ref\CRUD.CQRS.Domain.dll
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Domain\obj\Debug\net6.0\CRUD.CQRS.Domain.pdb
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Domain\obj\Debug\net6.0\CRUD.CQRS.Domain.genruntimeconfig.cache

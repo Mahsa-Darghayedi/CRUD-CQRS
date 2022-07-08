@@ -10,10 +10,22 @@
         "dependencies": {
           "MediatR": "10.0.1",
           "MediatR.Extensions.Microsoft.DependencyInjection": "10.0.1",
-          "Swashbuckle.AspNetCore": "6.2.3"
+          "Swashbuckle.AspNetCore": "6.2.3",
+          "libphonenumber-csharp": "8.12.50"
         },
         "runtime": {
           "CRUD.CQRS.ApplicationWebAPI.dll": {}
+        }
+      },
+      "libphonenumber-csharp/8.12.50": {
+        "dependencies": {
+          "System.Collections.Immutable": "1.7.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/PhoneNumbers.dll": {
+            "assemblyVersion": "8.12.50.0",
+            "fileVersion": "8.12.50.0"
+          }
         }
       },
       "MediatR/10.0.1": {
@@ -94,7 +106,8 @@
             "fileVersion": "6.2.3.0"
           }
         }
-      }
+      },
+      "System.Collections.Immutable/1.7.1": {}
     }
   },
   "libraries": {
@@ -102,6 +115,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "libphonenumber-csharp/8.12.50": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KUx4gWq17UPHrKJAIAzbusnDwSsN8sn8I9elMp19u2HjWrPdVm+FMBxBoJU0ajUMKP4nwXMuW0EuA3M5ZptPdA==",
+      "path": "libphonenumber-csharp/8.12.50",
+      "hashPath": "libphonenumber-csharp.8.12.50.nupkg.sha512"
     },
     "MediatR/10.0.1": {
       "type": "package",
@@ -172,6 +192,13 @@
       "sha512": "sha512-bCRI87uKJVb4G+KURWm8LQrL64St04dEFZcF6gIM67Zc0Sr/N47EO83ybLMYOvfNdO1DCv8xwPcrz9J/VEhQ5g==",
       "path": "swashbuckle.aspnetcore.swaggerui/6.2.3",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    },
+    "System.Collections.Immutable/1.7.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-B43Zsz5EfMwyEbnObwRxW5u85fzJma3lrDeGcSAV1qkhSRTNY5uXAByTn9h9ddNdhM+4/YoLc/CI43umjwIl9Q==",
+      "path": "system.collections.immutable/1.7.1",
+      "hashPath": "system.collections.immutable.1.7.1.nupkg.sha512"
     }
   }
 }

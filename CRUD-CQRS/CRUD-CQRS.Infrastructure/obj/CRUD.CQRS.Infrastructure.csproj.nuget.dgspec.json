@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\.Net Projects M4h\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Infrastructure\\CRUD.CQRS.Infrastructure.csproj": {}
+    "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Infrastructure\\CRUD.CQRS.Infrastructure.csproj": {}
   },
   "projects": {
-    "G:\\.Net Projects M4h\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Infrastructure\\CRUD.CQRS.Infrastructure.csproj": {
+    "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Infrastructure\\CRUD.CQRS.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\.Net Projects M4h\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Infrastructure\\CRUD.CQRS.Infrastructure.csproj",
+        "projectUniqueName": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Infrastructure\\CRUD.CQRS.Infrastructure.csproj",
         "projectName": "CRUD.CQRS.Infrastructure",
-        "projectPath": "G:\\.Net Projects M4h\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Infrastructure\\CRUD.CQRS.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Ronak\\.nuget\\packages\\",
-        "outputPath": "G:\\.Net Projects M4h\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Infrastructure\\obj\\",
+        "projectPath": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Infrastructure\\CRUD.CQRS.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\M4hs4\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ronak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\M4hs4\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

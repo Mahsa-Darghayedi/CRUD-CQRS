@@ -1,4 +1,4 @@
-﻿using CRUD.CQRS.ApplicationService.Utility;
+﻿using CRUD.CQRS.ApplicationService.Validation;
 using Xunit;
 
 namespace CRUD.CQRS.Test.ServicesTest.TestValidation

@@ -8,10 +8,22 @@
     ".NETCoreApp,Version=v6.0": {
       "CRUD.CQRS.ApplicationService/1.0.0": {
         "dependencies": {
-          "System.Net.Mail": "1.0.0-rtm-00002"
+          "System.Net.Mail": "1.0.0-rtm-00002",
+          "libphonenumber-csharp": "8.12.50"
         },
         "runtime": {
           "CRUD.CQRS.ApplicationService.dll": {}
+        }
+      },
+      "libphonenumber-csharp/8.12.50": {
+        "dependencies": {
+          "System.Collections.Immutable": "1.7.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/PhoneNumbers.dll": {
+            "assemblyVersion": "8.12.50.0",
+            "fileVersion": "8.12.50.0"
+          }
         }
       },
       "Microsoft.NETCore.Platforms/1.0.1": {},
@@ -31,6 +43,7 @@
           "System.Runtime": "4.1.0"
         }
       },
+      "System.Collections.Immutable/1.7.1": {},
       "System.Collections.NonGeneric/4.0.1": {
         "dependencies": {
           "System.Diagnostics.Debug": "4.0.11",
@@ -253,6 +266,13 @@
       "serviceable": false,
       "sha512": ""
     },
+    "libphonenumber-csharp/8.12.50": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KUx4gWq17UPHrKJAIAzbusnDwSsN8sn8I9elMp19u2HjWrPdVm+FMBxBoJU0ajUMKP4nwXMuW0EuA3M5ZptPdA==",
+      "path": "libphonenumber-csharp/8.12.50",
+      "hashPath": "libphonenumber-csharp.8.12.50.nupkg.sha512"
+    },
     "Microsoft.NETCore.Platforms/1.0.1": {
       "type": "package",
       "serviceable": true,
@@ -280,6 +300,13 @@
       "sha512": "sha512-YUJGz6eFKqS0V//mLt25vFGrrCvOnsXjlvFQs+KimpwNxug9x0Pzy4PlFMU3Q2IzqAa9G2L4LsK3+9vCBK7oTg==",
       "path": "system.collections/4.0.11",
       "hashPath": "system.collections.4.0.11.nupkg.sha512"
+    },
+    "System.Collections.Immutable/1.7.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-B43Zsz5EfMwyEbnObwRxW5u85fzJma3lrDeGcSAV1qkhSRTNY5uXAByTn9h9ddNdhM+4/YoLc/CI43umjwIl9Q==",
+      "path": "system.collections.immutable/1.7.1",
+      "hashPath": "system.collections.immutable.1.7.1.nupkg.sha512"
     },
     "System.Collections.NonGeneric/4.0.1": {
       "type": "package",
