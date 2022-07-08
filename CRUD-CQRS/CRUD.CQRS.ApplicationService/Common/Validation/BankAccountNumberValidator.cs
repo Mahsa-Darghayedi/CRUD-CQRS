@@ -13,7 +13,7 @@ namespace CRUD.CQRS.ApplicationService.Validation
 
         protected override ValidationResult? IsValid(object value, ValidationContext validationContext)
         {
-            return IsValidBankAccountNumber((string)value) ? new ValidationResult(ErrorMessage = Statics.InvalidBankAccount) : ValidationResult.Success;
+            return !IsValidBankAccountNumber((string)value) ? new ValidationResult(ErrorMessage = Statics.InvalidBankAccount) : ValidationResult.Success;
         }
 
 

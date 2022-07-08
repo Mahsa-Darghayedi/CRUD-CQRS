@@ -1,8 +1,10 @@
-﻿using PhoneNumbers;
+﻿using CRUD.CQRS.ApplicationService.Common;
+using PhoneNumbers;
+using System.ComponentModel.DataAnnotations;
 
 namespace CRUD.CQRS.ApplicationService.Validation
 {
-    public class PhoneNumberValidator
+    public class PhoneNumberValidator :ValidationAttribute
     {
         public bool isPhoneNumberValid(string phoneNumber)
         {
@@ -18,5 +20,11 @@ namespace CRUD.CQRS.ApplicationService.Validation
             }
            
         }
+
+        protected override ValidationResult? IsValid(object value, ValidationContext validationContext)
+        {
+            return !isPhoneNumberValid((string)value) ? new ValidationResult(Statics.InvalidPhoneNumber) : ValidationResult.Success;
+        }
+
     }
 }

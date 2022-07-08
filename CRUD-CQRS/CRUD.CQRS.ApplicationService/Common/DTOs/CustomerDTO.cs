@@ -12,9 +12,10 @@ namespace CRUD.CQRS.ApplicationService.Common.DTOs
         public string LastName { get; set; }
 
         [Required(AllowEmptyStrings = false, ErrorMessage = Statics.EmptyDateOfBirth)]
-        public DateOnly DateOfBirth { get; set; }
+        public DateTime DateOfBirth { get; set; }
 
         [Required(AllowEmptyStrings = false, ErrorMessage = Statics.EmptyPhoneNumber)]
+        [PhoneNumberValidator]
         public string PhoneNumber { get; set; }
 
         [Required(AllowEmptyStrings = false, ErrorMessage = Statics.EmptyEmail)]

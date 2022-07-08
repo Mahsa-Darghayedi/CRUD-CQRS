@@ -1,9 +1,9 @@
+using CRUD_CQRS.Domain;
 using Web_API.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
 builder.Services.AddServicesConfig();
 
 var app = builder.Build();

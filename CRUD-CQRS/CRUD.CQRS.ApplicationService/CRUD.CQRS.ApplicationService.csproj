@@ -7,8 +7,20 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Services\Interfaces\**" />
+    <Content Remove="Services\Interfaces\**" />
+    <EmbeddedResource Remove="Services\Interfaces\**" />
+    <None Remove="Services\Interfaces\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="libphonenumber-csharp" Version="8.12.50" />
+    <PackageReference Include="MediatR" Version="10.0.1" />
     <PackageReference Include="System.Net.Mail" Version="1.0.0-rtm-00002" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CRUD-CQRS.Domain\CRUD.CQRS.Domain.csproj" />
   </ItemGroup>
 
 </Project>

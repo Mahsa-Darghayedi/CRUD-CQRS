@@ -7,4 +7,10 @@
     <RootNamespace>CRUD_CQRS.Domain</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="EventStore.Client" Version="21.2.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="6.0.6" />
+  </ItemGroup>
+
 </Project>

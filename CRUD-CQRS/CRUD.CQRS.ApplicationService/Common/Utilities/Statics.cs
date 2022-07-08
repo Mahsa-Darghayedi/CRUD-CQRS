@@ -13,6 +13,7 @@
 
         public const string InvalidEmailAddress = "Please Enter a Valid Email Address";
         public const string InvalidBankAccount = "Please Enter a Valid Bank Account Number";
+        public const string InvalidPhoneNumber = "Please Enter a Valid Phone Number";
 
 
         #endregion Messages
