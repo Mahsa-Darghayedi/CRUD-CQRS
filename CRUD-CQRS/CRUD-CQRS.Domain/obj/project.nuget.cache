@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bfz5u/1Ev9SSmTBOreTV86TV4Q8NVhMVtg7QPDxNqBxVJLKzq7IorHomjrQsDPvV9B1XudBKo7kuEe31NSvqLg==",
+  "dgSpecHash": "Ov4bxnSV1AwHpUakr6bBH8pPqruaN2lkz9tMq17jAUhgNZh8cIZJZIC864hjQjWQvH6jqumjJ6HIL7QgTI1kJQ==",
   "success": true,
-  "projectFilePath": "G:\\.Net Projects M4h\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Domain\\CRUD.CQRS.Domain.csproj",
+  "projectFilePath": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Domain\\CRUD.CQRS.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

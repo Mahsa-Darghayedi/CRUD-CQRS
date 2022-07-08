@@ -1,4 +1,4 @@
-﻿using CRUD.CQRS.ApplicationService.Utility;
+﻿using CRUD.CQRS.ApplicationService.Validation;
 using Xunit;
 
 namespace CRUD.CQRS.Test.ServicesTest.TestValidation
@@ -26,10 +26,11 @@ namespace CRUD.CQRS.Test.ServicesTest.TestValidation
         [InlineData("123456")]
         [InlineData("1234567")]
         [InlineData("12345678")]
-        [InlineData("12345678910111213141516")] //more than 18
+        [InlineData("123456789101112131415160")] //more than 18
         [InlineData("123456789x")] // 9-18 include letters
         [InlineData("abcdefghjklmno")]
         [InlineData("000000000")]
+        [InlineData("0000000000000000000")]
         public void ShouldBeInValid_InvalidInputs(string value)
         {
             Assert.False(validator.IsValidBankAccountNumber(value));
@@ -39,6 +40,8 @@ namespace CRUD.CQRS.Test.ServicesTest.TestValidation
         [InlineData("123456789")]
         [InlineData("1234567891234")]
         [InlineData("123456789123456789")]
+        [InlineData("1111111111111")]
+        [InlineData("000000000000000001")]
         public void ShouldBeValid(string value)
         {
             Assert.True(validator.IsValidBankAccountNumber(value));

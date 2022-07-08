@@ -19,6 +19,17 @@
         }
       },
       "coverlet.collector/3.1.0": {},
+      "libphonenumber-csharp/8.12.50": {
+        "dependencies": {
+          "System.Collections.Immutable": "1.7.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/PhoneNumbers.dll": {
+            "assemblyVersion": "8.12.50.0",
+            "fileVersion": "8.12.50.0"
+          }
+        }
+      },
       "Microsoft.CodeCoverage/16.11.0": {
         "runtime": {
           "lib/netcoreapp1.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll": {
@@ -480,6 +491,7 @@
           "System.Threading.Tasks": "4.3.0"
         }
       },
+      "System.Collections.Immutable/1.7.1": {},
       "System.Collections.NonGeneric/4.0.1": {
         "dependencies": {
           "System.Diagnostics.Debug": "4.3.0",
@@ -1155,7 +1167,8 @@
       "xunit.runner.visualstudio/2.4.3": {},
       "CRUD.CQRS.ApplicationService/1.0.0": {
         "dependencies": {
-          "System.Net.Mail": "1.0.0-rtm-00002"
+          "System.Net.Mail": "1.0.0-rtm-00002",
+          "libphonenumber-csharp": "8.12.50"
         },
         "runtime": {
           "CRUD.CQRS.ApplicationService.dll": {}
@@ -1175,6 +1188,13 @@
       "sha512": "sha512-YzYqSRrjoP5lULBhTDcTOjuM4IDPPi6PhFsl4w8EI4WdZhE6llt7E38Tg4CHyrS+QKwyu1+9OwkdDgluOdoBTw==",
       "path": "coverlet.collector/3.1.0",
       "hashPath": "coverlet.collector.3.1.0.nupkg.sha512"
+    },
+    "libphonenumber-csharp/8.12.50": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KUx4gWq17UPHrKJAIAzbusnDwSsN8sn8I9elMp19u2HjWrPdVm+FMBxBoJU0ajUMKP4nwXMuW0EuA3M5ZptPdA==",
+      "path": "libphonenumber-csharp/8.12.50",
+      "hashPath": "libphonenumber-csharp.8.12.50.nupkg.sha512"
     },
     "Microsoft.CodeCoverage/16.11.0": {
       "type": "package",
@@ -1392,6 +1412,13 @@
       "sha512": "sha512-ztl69Xp0Y/UXCL+3v3tEU+lIy+bvjKNUmopn1wep/a291pVPK7dxBd6T7WnlQqRog+d1a/hSsgRsmFnIBKTPLQ==",
       "path": "system.collections.concurrent/4.3.0",
       "hashPath": "system.collections.concurrent.4.3.0.nupkg.sha512"
+    },
+    "System.Collections.Immutable/1.7.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-B43Zsz5EfMwyEbnObwRxW5u85fzJma3lrDeGcSAV1qkhSRTNY5uXAByTn9h9ddNdhM+4/YoLc/CI43umjwIl9Q==",
+      "path": "system.collections.immutable/1.7.1",
+      "hashPath": "system.collections.immutable.1.7.1.nupkg.sha512"
     },
     "System.Collections.NonGeneric/4.0.1": {
       "type": "package",

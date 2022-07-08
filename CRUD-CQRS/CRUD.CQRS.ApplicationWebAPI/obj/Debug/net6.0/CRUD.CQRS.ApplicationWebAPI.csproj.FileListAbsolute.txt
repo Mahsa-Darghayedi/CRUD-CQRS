@@ -1,0 +1,92 @@
+G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\Web API\bin\Debug\net6.0\appsettings.Development.json
+G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\Web API\bin\Debug\net6.0\appsettings.json
+G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\Web API\bin\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.exe
+G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\Web API\bin\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.deps.json
+G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\Web API\bin\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.runtimeconfig.json
+G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\Web API\bin\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.dll
+G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\Web API\bin\Debug\net6.0\ref\CRUD.CQRS.ApplicationWebAPI.dll
+G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\Web API\bin\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.pdb
+G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\Web API\bin\Debug\net6.0\MediatR.dll
+G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\Web API\bin\Debug\net6.0\MediatR.Contracts.dll
+G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\Web API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\Web API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\Web API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\Web API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\Web API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\Web API\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.csproj.AssemblyReference.cache
+G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\Web API\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\Web API\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.AssemblyInfoInputs.cache
+G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\Web API\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.AssemblyInfo.cs
+G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\Web API\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.csproj.CoreCompileInputs.cache
+G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\Web API\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.MvcApplicationPartsAssemblyInfo.cs
+G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\Web API\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.MvcApplicationPartsAssemblyInfo.cache
+G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\Web API\obj\Debug\net6.0\staticwebassets.build.json
+G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\Web API\obj\Debug\net6.0\staticwebassets.development.json
+G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\Web API\obj\Debug\net6.0\scopedcss\bundle\CRUD.CQRS.ApplicationWebAPI.styles.css
+G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\Web API\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.csproj.CopyComplete
+G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\Web API\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.dll
+G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\Web API\obj\Debug\net6.0\ref\CRUD.CQRS.ApplicationWebAPI.dll
+G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\Web API\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.pdb
+G:\.Net Projects M4h\CRUD-CQRS\CRUD-CQRS\Web API\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.genruntimeconfig.cache
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Web API\bin\Debug\net6.0\appsettings.Development.json
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Web API\bin\Debug\net6.0\appsettings.json
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Web API\bin\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.exe
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Web API\bin\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.deps.json
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Web API\bin\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.runtimeconfig.json
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Web API\bin\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.dll
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Web API\bin\Debug\net6.0\ref\CRUD.CQRS.ApplicationWebAPI.dll
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Web API\bin\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.pdb
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Web API\bin\Debug\net6.0\MediatR.dll
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Web API\bin\Debug\net6.0\MediatR.Contracts.dll
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Web API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Web API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Web API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Web API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Web API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Web API\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.csproj.AssemblyReference.cache
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Web API\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Web API\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.AssemblyInfoInputs.cache
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Web API\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.AssemblyInfo.cs
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Web API\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.csproj.CoreCompileInputs.cache
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Web API\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Web API\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Web API\obj\Debug\net6.0\staticwebassets.build.json
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Web API\obj\Debug\net6.0\staticwebassets.development.json
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Web API\obj\Debug\net6.0\scopedcss\bundle\CRUD.CQRS.ApplicationWebAPI.styles.css
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Web API\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.csproj.CopyComplete
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Web API\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.dll
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Web API\obj\Debug\net6.0\ref\CRUD.CQRS.ApplicationWebAPI.dll
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Web API\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.pdb
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Web API\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.genruntimeconfig.cache
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\Web API\bin\Debug\net6.0\PhoneNumbers.dll
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\appsettings.Development.json
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\appsettings.json
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.exe
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.deps.json
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.runtimeconfig.json
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.dll
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\ref\CRUD.CQRS.ApplicationWebAPI.dll
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.pdb
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\PhoneNumbers.dll
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\MediatR.dll
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\MediatR.Contracts.dll
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.csproj.AssemblyReference.cache
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.AssemblyInfoInputs.cache
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.AssemblyInfo.cs
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.csproj.CoreCompileInputs.cache
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\scopedcss\bundle\CRUD.CQRS.ApplicationWebAPI.styles.css
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.csproj.CopyComplete
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.dll
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\ref\CRUD.CQRS.ApplicationWebAPI.dll
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.pdb
+F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.genruntimeconfig.cache

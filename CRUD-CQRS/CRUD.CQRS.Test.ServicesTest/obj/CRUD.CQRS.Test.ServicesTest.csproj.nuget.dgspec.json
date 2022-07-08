@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\.Net Projects M4h\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.Test.ServicesTest\\CRUD.CQRS.Test.ServicesTest.csproj": {}
+    "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.Test.ServicesTest\\CRUD.CQRS.Test.ServicesTest.csproj": {}
   },
   "projects": {
-    "G:\\.Net Projects M4h\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.Test.ServicesTest\\CRUD.CQRS.Test.ServicesTest.csproj": {
+    "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.Test.ServicesTest\\CRUD.CQRS.Test.ServicesTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\.Net Projects M4h\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.Test.ServicesTest\\CRUD.CQRS.Test.ServicesTest.csproj",
+        "projectUniqueName": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.Test.ServicesTest\\CRUD.CQRS.Test.ServicesTest.csproj",
         "projectName": "CRUD.CQRS.Test.ServicesTest",
-        "projectPath": "G:\\.Net Projects M4h\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.Test.ServicesTest\\CRUD.CQRS.Test.ServicesTest.csproj",
-        "packagesPath": "C:\\Users\\Ronak\\.nuget\\packages\\",
-        "outputPath": "G:\\.Net Projects M4h\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.Test.ServicesTest\\obj\\",
+        "projectPath": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.Test.ServicesTest\\CRUD.CQRS.Test.ServicesTest.csproj",
+        "packagesPath": "C:\\Users\\M4hs4\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.Test.ServicesTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ronak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\M4hs4\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "G:\\.Net Projects M4h\\CRUD-CQRS\\CRUD-CQRS\\Service\\CRUD.CQRS.ApplicationService.csproj": {
-                "projectPath": "G:\\.Net Projects M4h\\CRUD-CQRS\\CRUD-CQRS\\Service\\CRUD.CQRS.ApplicationService.csproj"
+              "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\Service\\CRUD.CQRS.ApplicationService.csproj": {
+                "projectPath": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\Service\\CRUD.CQRS.ApplicationService.csproj"
               }
             }
           }
@@ -84,17 +84,17 @@
         }
       }
     },
-    "G:\\.Net Projects M4h\\CRUD-CQRS\\CRUD-CQRS\\Service\\CRUD.CQRS.ApplicationService.csproj": {
+    "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\Service\\CRUD.CQRS.ApplicationService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\.Net Projects M4h\\CRUD-CQRS\\CRUD-CQRS\\Service\\CRUD.CQRS.ApplicationService.csproj",
+        "projectUniqueName": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\Service\\CRUD.CQRS.ApplicationService.csproj",
         "projectName": "CRUD.CQRS.ApplicationService",
-        "projectPath": "G:\\.Net Projects M4h\\CRUD-CQRS\\CRUD-CQRS\\Service\\CRUD.CQRS.ApplicationService.csproj",
-        "packagesPath": "C:\\Users\\Ronak\\.nuget\\packages\\",
-        "outputPath": "G:\\.Net Projects M4h\\CRUD-CQRS\\CRUD-CQRS\\Service\\obj\\",
+        "projectPath": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\Service\\CRUD.CQRS.ApplicationService.csproj",
+        "packagesPath": "C:\\Users\\M4hs4\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ronak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\M4hs4\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -123,6 +123,10 @@
             "System.Net.Mail": {
               "target": "Package",
               "version": "[1.0.0-rtm-00002, )"
+            },
+            "libphonenumber-csharp": {
+              "target": "Package",
+              "version": "[8.12.50, )"
             }
           },
           "imports": [
