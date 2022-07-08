@@ -394,11 +394,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD:CRUD-CQRS/CRUD.CQRS.ApplicationWebAPI/obj/project.assets.json
       "projectUniqueName": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.ApplicationWebAPI\\CRUD.CQRS.ApplicationWebAPI.csproj",
       "projectName": "CRUD.CQRS.ApplicationWebAPI",
       "projectPath": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.ApplicationWebAPI\\CRUD.CQRS.ApplicationWebAPI.csproj",
       "packagesPath": "C:\\Users\\M4hs4\\.nuget\\packages\\",
       "outputPath": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.ApplicationWebAPI\\obj\\",
+=======
+      "projectUniqueName": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\Web API\\CRUD.CQRS.ApplicationWebAPI.csproj",
+      "projectName": "CRUD.CQRS.ApplicationWebAPI",
+      "projectPath": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\Web API\\CRUD.CQRS.ApplicationWebAPI.csproj",
+      "packagesPath": "C:\\Users\\M4hs4\\.nuget\\packages\\",
+      "outputPath": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\Web API\\obj\\",
+>>>>>>> ce37ae07f217c2d394867841779430f5780c3652:CRUD-CQRS/Web API/obj/project.assets.json
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\M4hs4\\AppData\\Roaming\\NuGet\\NuGet.Config",

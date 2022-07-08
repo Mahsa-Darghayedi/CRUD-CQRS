@@ -6373,8 +6373,8 @@
     },
     "CRUD.CQRS.ApplicationService/1.0.0": {
       "type": "project",
-      "path": "../Service/CRUD.CQRS.ApplicationService.csproj",
-      "msbuildProject": "../Service/CRUD.CQRS.ApplicationService.csproj"
+      "path": "../CRUD.CQRS.ApplicationService/CRUD.CQRS.ApplicationService.csproj",
+      "msbuildProject": "../CRUD.CQRS.ApplicationService/CRUD.CQRS.ApplicationService.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6413,8 +6413,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\Service\\CRUD.CQRS.ApplicationService.csproj": {
-              "projectPath": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\Service\\CRUD.CQRS.ApplicationService.csproj"
+            "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.ApplicationService\\CRUD.CQRS.ApplicationService.csproj": {
+              "projectPath": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.ApplicationService\\CRUD.CQRS.ApplicationService.csproj"
             }
           }
         }

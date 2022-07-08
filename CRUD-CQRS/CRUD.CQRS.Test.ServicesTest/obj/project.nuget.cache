@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "tO0SHDug9EbS4xGvHNyAV9I7u6NbNrWg3bfxYP32d+tW9AjMnYUV2RHDQyDTuWZdH2DKcDs6Kt9EdaU6axKUig==",
+  "dgSpecHash": "IMsmhvl7El4EIpOcJ6Fwzv3fUp1q9meKa705yl8M1J+nnAhB//X1lNd1xKKM+GR0S/y9S01+LkpMYpe9MJ7/ZA==",
   "success": true,
   "projectFilePath": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.Test.ServicesTest\\CRUD.CQRS.Test.ServicesTest.csproj",
   "expectedPackageFiles": [
