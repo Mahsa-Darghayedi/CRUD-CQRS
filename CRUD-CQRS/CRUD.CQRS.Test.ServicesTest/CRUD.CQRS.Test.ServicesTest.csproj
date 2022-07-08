@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Service\CRUD.CQRS.ApplicationService.csproj" />
+    <ProjectReference Include="..\CRUD.CQRS.ApplicationService\CRUD.CQRS.ApplicationService.csproj" />
   </ItemGroup>
 
 </Project>
