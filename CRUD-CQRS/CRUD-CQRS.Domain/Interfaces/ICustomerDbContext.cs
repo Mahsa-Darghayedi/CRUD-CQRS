@@ -6,6 +6,7 @@ namespace CRUD.CQRS.Domain.Interfaces
     public interface ICustomerDbContext
     {
         DbSet<Customer> Customers { get; }
-        Task<bool> SaveChangsAsync();
+        Task<int> SaveChangsAsync();
+        Task<bool> AddAsync(Customer entity);
     }
 }

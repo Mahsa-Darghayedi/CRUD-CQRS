@@ -5,6 +5,7 @@ namespace CRUD.CQRS.ApplicationService.Common.DTOs
 {
     public class CustomerDTO
     {
+        public int Id { get; set; } 
         [Required(AllowEmptyStrings = false, ErrorMessage = Statics.EmptyFirstName)]
         public string FirstName { get; set; }
 

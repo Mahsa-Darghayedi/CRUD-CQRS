@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "rL7CvdVswLiITdgLb/ec5tUjcV5uREBM6IM2J7d6TNs=",
+  "Hash": "GpO6HMiaFXdz4XXChhu0GolrI+qnwSqOWatfyRoGw58=",
   "Source": "CRUD.CQRS.ApplicationService",
   "BasePath": "_content/CRUD.CQRS.ApplicationService",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Domain\\CRUD.CQRS.Domain.csproj",
+      "Identity": "E:\\.Net Projct\\CQRSTask\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Domain\\CRUD.CQRS.Domain.csproj",
       "Version": 2,
       "Source": "CRUD.CQRS.Domain",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",

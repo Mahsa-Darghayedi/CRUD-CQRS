@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Infrastructure\\CRUD.CQRS.Infrastructure.csproj": {}
+    "E:\\.Net Projct\\CQRSTask\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Infrastructure\\CRUD.CQRS.Infrastructure.csproj": {}
   },
   "projects": {
-    "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Infrastructure\\CRUD.CQRS.Infrastructure.csproj": {
+    "E:\\.Net Projct\\CQRSTask\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Infrastructure\\CRUD.CQRS.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Infrastructure\\CRUD.CQRS.Infrastructure.csproj",
+        "projectUniqueName": "E:\\.Net Projct\\CQRSTask\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Infrastructure\\CRUD.CQRS.Infrastructure.csproj",
         "projectName": "CRUD.CQRS.Infrastructure",
-        "projectPath": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Infrastructure\\CRUD.CQRS.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\M4hs4\\.nuget\\packages\\",
-        "outputPath": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Infrastructure\\obj\\",
+        "projectPath": "E:\\.Net Projct\\CQRSTask\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Infrastructure\\CRUD.CQRS.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\m.darghayedi\\.nuget\\packages\\",
+        "outputPath": "E:\\.Net Projct\\CQRSTask\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\M4hs4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\m.darghayedi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

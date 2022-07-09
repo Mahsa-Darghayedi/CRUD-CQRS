@@ -1,16 +1,15 @@
-﻿
-using CRUD.CQRS.Domain.Interfaces;
+﻿using CRUD.CQRS.Domain.Interfaces;
 using System.ComponentModel.DataAnnotations;
 
 namespace CRUD.CQRS.Domain.Models
 {
     public class Customer
     {
-
-
-        [Required]            
+        [Key]        
+        public int Id { get; set; } 
+        [Required]
         public string FirstName { get; set; }
-        [Required]        
+        [Required]
         public string LastName { get; set; }
         [Required]
         public DateTime DateOfBirth { get; set; }
@@ -18,7 +17,7 @@ namespace CRUD.CQRS.Domain.Models
         [DataType(DataType.PhoneNumber)]
         public string PhoneNumber { get; set; }
         [Required]
-        [DataType(DataType.EmailAddress)]     
+        [DataType(DataType.EmailAddress)]
         public string Email { get; set; }
 
         [Required]

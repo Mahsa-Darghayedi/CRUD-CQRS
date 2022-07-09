@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n40P7yMk2FnzUpF23z4sIVDO7Y4sMiMsoxnGKnXqpue/EBNSAJyapewcL+xcUZ8WiIYBXq/poOORTnXU2Gy5QQ==",
+  "dgSpecHash": "AUh7mUa/UVJ5A3vKl7Jrqpjo9I4Uu4hHGeHqQXw/+7V2WOvXjK9nEa98j2k3bjQhLGN4FG8M/zjw5S6BL4TZpA==",
   "success": true,
-  "projectFilePath": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Infrastructure\\CRUD.CQRS.Infrastructure.csproj",
+  "projectFilePath": "E:\\.Net Projct\\CQRSTask\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Infrastructure\\CRUD.CQRS.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
