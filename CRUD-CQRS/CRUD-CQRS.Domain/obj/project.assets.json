@@ -3681,19 +3681,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\M4hs4\\.nuget\\packages\\": {}
+    "C:\\Users\\m.darghayedi\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Domain\\CRUD.CQRS.Domain.csproj",
+      "projectUniqueName": "E:\\.Net Projct\\CQRSTask\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Domain\\CRUD.CQRS.Domain.csproj",
       "projectName": "CRUD.CQRS.Domain",
-      "projectPath": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Domain\\CRUD.CQRS.Domain.csproj",
-      "packagesPath": "C:\\Users\\M4hs4\\.nuget\\packages\\",
-      "outputPath": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Domain\\obj\\",
+      "projectPath": "E:\\.Net Projct\\CQRSTask\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Domain\\CRUD.CQRS.Domain.csproj",
+      "packagesPath": "C:\\Users\\m.darghayedi\\.nuget\\packages\\",
+      "outputPath": "E:\\.Net Projct\\CQRSTask\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Domain\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\M4hs4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\m.darghayedi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

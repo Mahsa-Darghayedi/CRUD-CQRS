@@ -40,3 +40,24 @@ F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Infrastructure\obj\D
 F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Infrastructure\obj\Debug\net6.0\ref\CRUD.CQRS.Infrastructure.dll
 F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Infrastructure\obj\Debug\net6.0\CRUD.CQRS.Infrastructure.pdb
 F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Infrastructure\obj\Debug\net6.0\CRUD.CQRS.Infrastructure.genruntimeconfig.cache
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Infrastructure\bin\Debug\net6.0\appsettings.Development.json
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Infrastructure\bin\Debug\net6.0\appsettings.json
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Infrastructure\bin\Debug\net6.0\CRUD.CQRS.Infrastructure.exe
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Infrastructure\bin\Debug\net6.0\CRUD.CQRS.Infrastructure.deps.json
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Infrastructure\bin\Debug\net6.0\CRUD.CQRS.Infrastructure.runtimeconfig.json
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Infrastructure\bin\Debug\net6.0\CRUD.CQRS.Infrastructure.dll
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Infrastructure\bin\Debug\net6.0\ref\CRUD.CQRS.Infrastructure.dll
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Infrastructure\bin\Debug\net6.0\CRUD.CQRS.Infrastructure.pdb
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Infrastructure\obj\Debug\net6.0\CRUD.CQRS.Infrastructure.csproj.AssemblyReference.cache
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Infrastructure\obj\Debug\net6.0\CRUD.CQRS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Infrastructure\obj\Debug\net6.0\CRUD.CQRS.Infrastructure.AssemblyInfoInputs.cache
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Infrastructure\obj\Debug\net6.0\CRUD.CQRS.Infrastructure.AssemblyInfo.cs
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Infrastructure\obj\Debug\net6.0\CRUD.CQRS.Infrastructure.csproj.CoreCompileInputs.cache
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Infrastructure\obj\Debug\net6.0\CRUD.CQRS.Infrastructure.MvcApplicationPartsAssemblyInfo.cache
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Infrastructure\obj\Debug\net6.0\staticwebassets.build.json
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Infrastructure\obj\Debug\net6.0\staticwebassets.development.json
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Infrastructure\obj\Debug\net6.0\scopedcss\bundle\CRUD.CQRS.Infrastructure.styles.css
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Infrastructure\obj\Debug\net6.0\CRUD.CQRS.Infrastructure.dll
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Infrastructure\obj\Debug\net6.0\ref\CRUD.CQRS.Infrastructure.dll
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Infrastructure\obj\Debug\net6.0\CRUD.CQRS.Infrastructure.pdb
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS.Infrastructure\obj\Debug\net6.0\CRUD.CQRS.Infrastructure.genruntimeconfig.cache

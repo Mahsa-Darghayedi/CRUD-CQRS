@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "Vs54gQ5sK2hBmM4yBhu6lLp9vo0Stlc5mbAU37wfvVs=",
+  "Hash": "8KjNIt6aAk4dRfN2dg8aPYlzx+qmoWP8Uly8R8/ERWg=",
   "Source": "CRUD.CQRS.ApplicationWebAPI",
   "BasePath": "_content/CRUD.CQRS.ApplicationWebAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.ApplicationService\\CRUD.CQRS.ApplicationService.csproj",
+      "Identity": "E:\\.Net Projct\\CQRSTask\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.ApplicationService\\CRUD.CQRS.ApplicationService.csproj",
       "Version": 2,
       "Source": "CRUD.CQRS.ApplicationService",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -18,7 +18,7 @@
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
     },
     {
-      "Identity": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Domain\\CRUD.CQRS.Domain.csproj",
+      "Identity": "E:\\.Net Projct\\CQRSTask\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Domain\\CRUD.CQRS.Domain.csproj",
       "Version": 2,
       "Source": "CRUD.CQRS.Domain",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",

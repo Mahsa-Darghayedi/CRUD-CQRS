@@ -14,6 +14,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="11.1.0" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.1.0" />
     <PackageReference Include="libphonenumber-csharp" Version="8.12.50" />
     <PackageReference Include="MediatR" Version="10.0.1" />
     <PackageReference Include="System.Net.Mail" Version="1.0.0-rtm-00002" />
@@ -21,6 +23,10 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CRUD-CQRS.Domain\CRUD.CQRS.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Services\Customer\Events\Handler\" />
   </ItemGroup>
 
 </Project>

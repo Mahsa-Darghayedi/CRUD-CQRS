@@ -16,6 +16,44 @@
           "lib/net5.0/EventStore.ClientAPI.dll": {}
         }
       },
+      "FluentValidation/11.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/FluentValidation.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/FluentValidation.dll": {}
+        }
+      },
+      "FluentValidation.AspNetCore/11.1.2": {
+        "type": "package",
+        "dependencies": {
+          "FluentValidation": "11.1.0",
+          "FluentValidation.DependencyInjectionExtensions": "11.1.0"
+        },
+        "compile": {
+          "lib/net6.0/FluentValidation.AspNetCore.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/FluentValidation.AspNetCore.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+      "FluentValidation.DependencyInjectionExtensions/11.1.0": {
+        "type": "package",
+        "dependencies": {
+          "FluentValidation": "11.1.0",
+          "Microsoft.Extensions.Dependencyinjection.Abstractions": "2.1.0"
+        },
+        "compile": {
+          "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll": {}
+        }
+      },
       "libphonenumber-csharp/8.12.50": {
         "type": "package",
         "dependencies": {
@@ -1317,6 +1355,8 @@
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "CRUD.CQRS.Domain": "1.0.0",
+          "FluentValidation": "11.1.0",
+          "FluentValidation.DependencyInjectionExtensions": "11.1.0",
           "MediatR": "10.0.1",
           "System.Net.Mail": "1.0.0-rtm-00002",
           "libphonenumber-csharp": "8.12.50"
@@ -1369,6 +1409,63 @@
         "lib/netcoreapp3.1/EventStore.ClientAPI.xml",
         "lib/netstandard2.0/EventStore.ClientAPI.dll",
         "lib/netstandard2.0/EventStore.ClientAPI.xml"
+      ]
+    },
+    "FluentValidation/11.1.0": {
+      "sha512": "Ld7w+2jOmnhQqFkngEGuEWTRa5j6u4Xzli7jKxRtbA5PtuHHcpin01qxvxYL0LomeJuzRMGAOURu2rKONdjKQA==",
+      "type": "package",
+      "path": "fluentvalidation/11.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "fluent-validation-icon.png",
+        "fluentvalidation.11.1.0.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net5.0/FluentValidation.dll",
+        "lib/net5.0/FluentValidation.xml",
+        "lib/net6.0/FluentValidation.dll",
+        "lib/net6.0/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml",
+        "lib/netstandard2.1/FluentValidation.dll",
+        "lib/netstandard2.1/FluentValidation.xml"
+      ]
+    },
+    "FluentValidation.AspNetCore/11.1.2": {
+      "sha512": "Lw/8btATvMYW9QYR75CAw1Wp0AJhr9f7cxs1IyklQo6emvy+JaM27BCUe2MZKDOQTLpP4fmVVppPQHHc7HOEjQ==",
+      "type": "package",
+      "path": "fluentvalidation.aspnetcore/11.1.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "fluent-validation-icon.png",
+        "fluentvalidation.aspnetcore.11.1.2.nupkg.sha512",
+        "fluentvalidation.aspnetcore.nuspec",
+        "lib/net5.0/FluentValidation.AspNetCore.dll",
+        "lib/net5.0/FluentValidation.AspNetCore.xml",
+        "lib/net6.0/FluentValidation.AspNetCore.dll",
+        "lib/net6.0/FluentValidation.AspNetCore.xml",
+        "lib/netcoreapp3.1/FluentValidation.AspNetCore.dll",
+        "lib/netcoreapp3.1/FluentValidation.AspNetCore.xml"
+      ]
+    },
+    "FluentValidation.DependencyInjectionExtensions/11.1.0": {
+      "sha512": "M9U2hLZc8bx0JthQKsN9SVgQSHJeLMcSV/uCmJ23U+/7HCSeOYD4OXoF+p5U3bLGz6Yp7h0/0XbSL+Qv2S38EQ==",
+      "type": "package",
+      "path": "fluentvalidation.dependencyinjectionextensions/11.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "fluent-validation-icon.png",
+        "fluentvalidation.dependencyinjectionextensions.11.1.0.nupkg.sha512",
+        "fluentvalidation.dependencyinjectionextensions.nuspec",
+        "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.dll",
+        "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.xml",
+        "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll",
+        "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.xml"
       ]
     },
     "libphonenumber-csharp/8.12.50": {
@@ -4558,6 +4655,8 @@
     "net6.0": [
       "CRUD.CQRS.ApplicationService >= 1.0.0",
       "CRUD.CQRS.Domain >= 1.0.0",
+      "FluentValidation.AspNetCore >= 11.1.2",
+      "FluentValidation.DependencyInjectionExtensions >= 11.1.0",
       "MediatR >= 10.0.1",
       "MediatR.Extensions.Microsoft.DependencyInjection >= 10.0.1",
       "MediatR.Extensions.Microsoft.DependencyInjectionFixed >= 5.1.2",
@@ -4567,19 +4666,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\M4hs4\\.nuget\\packages\\": {}
+    "C:\\Users\\m.darghayedi\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.ApplicationWebAPI\\CRUD.CQRS.ApplicationWebAPI.csproj",
+      "projectUniqueName": "E:\\.Net Projct\\CQRSTask\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.ApplicationWebAPI\\CRUD.CQRS.ApplicationWebAPI.csproj",
       "projectName": "CRUD.CQRS.ApplicationWebAPI",
-      "projectPath": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.ApplicationWebAPI\\CRUD.CQRS.ApplicationWebAPI.csproj",
-      "packagesPath": "C:\\Users\\M4hs4\\.nuget\\packages\\",
-      "outputPath": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.ApplicationWebAPI\\obj\\",
+      "projectPath": "E:\\.Net Projct\\CQRSTask\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.ApplicationWebAPI\\CRUD.CQRS.ApplicationWebAPI.csproj",
+      "packagesPath": "C:\\Users\\m.darghayedi\\.nuget\\packages\\",
+      "outputPath": "E:\\.Net Projct\\CQRSTask\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.ApplicationWebAPI\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\M4hs4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\m.darghayedi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4593,11 +4696,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Domain\\CRUD.CQRS.Domain.csproj": {
-              "projectPath": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Domain\\CRUD.CQRS.Domain.csproj"
+            "E:\\.Net Projct\\CQRSTask\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Domain\\CRUD.CQRS.Domain.csproj": {
+              "projectPath": "E:\\.Net Projct\\CQRSTask\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Domain\\CRUD.CQRS.Domain.csproj"
             },
-            "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.ApplicationService\\CRUD.CQRS.ApplicationService.csproj": {
-              "projectPath": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.ApplicationService\\CRUD.CQRS.ApplicationService.csproj"
+            "E:\\.Net Projct\\CQRSTask\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.ApplicationService\\CRUD.CQRS.ApplicationService.csproj": {
+              "projectPath": "E:\\.Net Projct\\CQRSTask\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.ApplicationService\\CRUD.CQRS.ApplicationService.csproj"
             }
           }
         }
@@ -4612,6 +4715,14 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+          "FluentValidation.AspNetCore": {
+            "target": "Package",
+            "version": "[11.1.2, )"
+          },
+          "FluentValidation.DependencyInjectionExtensions": {
+            "target": "Package",
+            "version": "[11.1.0, )"
+          },
           "MediatR": {
             "target": "Package",
             "version": "[10.0.1, )"

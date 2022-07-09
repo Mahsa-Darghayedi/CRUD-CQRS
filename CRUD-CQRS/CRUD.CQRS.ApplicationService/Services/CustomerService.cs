@@ -2,17 +2,18 @@
 
 namespace CRUD.CQRS.ApplicationService.Services
 {
-    public class CustomerService : ICustomerService 
+    public class CustomerService : ICustomerService
     {
         private readonly ICustomerDbContext _context;
         public CustomerService(ICustomerDbContext context)
         {
-            _context = context; 
+            _context = context;
         }
 
         public bool IsEmailUniqe(string email)
         {
-            return _context.Customers.Count(c=> c.Email.Trim().ToLower().Equals(email.Trim().ToLower())) == 0;
+            if (string.IsNullOrEmpty(email)) return false;
+            else return _context.Customers.Count(c => c.Email.Trim().ToLower().Equals(email.Trim().ToLower())) == 0;
         }
     }
 }

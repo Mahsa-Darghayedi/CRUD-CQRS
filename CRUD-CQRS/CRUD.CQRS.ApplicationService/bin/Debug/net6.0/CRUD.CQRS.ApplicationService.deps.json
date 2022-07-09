@@ -9,6 +9,8 @@
       "CRUD.CQRS.ApplicationService/1.0.0": {
         "dependencies": {
           "CRUD.CQRS.Domain": "1.0.0",
+          "FluentValidation": "11.1.0",
+          "FluentValidation.DependencyInjectionExtensions": "11.1.0",
           "MediatR": "10.0.1",
           "System.Net.Mail": "1.0.0-rtm-00002",
           "libphonenumber-csharp": "8.12.50"
@@ -27,6 +29,26 @@
           "lib/net5.0/EventStore.ClientAPI.dll": {
             "assemblyVersion": "21.2.2.0",
             "fileVersion": "21.2.2.0"
+          }
+        }
+      },
+      "FluentValidation/11.1.0": {
+        "runtime": {
+          "lib/net6.0/FluentValidation.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.1.0.0"
+          }
+        }
+      },
+      "FluentValidation.DependencyInjectionExtensions/11.1.0": {
+        "dependencies": {
+          "FluentValidation": "11.1.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.1.0.0"
           }
         }
       },
@@ -705,6 +727,20 @@
       "sha512": "sha512-3xLQEOkpOMCm5/2Spk6mFwqFBowYw9pA9Np3K+YVF0yMh2KCQGW/21iV6CdT9XRtB+CzoKDYDhaZlsvaFpfbPQ==",
       "path": "eventstore.client/21.2.2",
       "hashPath": "eventstore.client.21.2.2.nupkg.sha512"
+    },
+    "FluentValidation/11.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ld7w+2jOmnhQqFkngEGuEWTRa5j6u4Xzli7jKxRtbA5PtuHHcpin01qxvxYL0LomeJuzRMGAOURu2rKONdjKQA==",
+      "path": "fluentvalidation/11.1.0",
+      "hashPath": "fluentvalidation.11.1.0.nupkg.sha512"
+    },
+    "FluentValidation.DependencyInjectionExtensions/11.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-M9U2hLZc8bx0JthQKsN9SVgQSHJeLMcSV/uCmJ23U+/7HCSeOYD4OXoF+p5U3bLGz6Yp7h0/0XbSL+Qv2S38EQ==",
+      "path": "fluentvalidation.dependencyinjectionextensions/11.1.0",
+      "hashPath": "fluentvalidation.dependencyinjectionextensions.11.1.0.nupkg.sha512"
     },
     "libphonenumber-csharp/8.12.50": {
       "type": "package",

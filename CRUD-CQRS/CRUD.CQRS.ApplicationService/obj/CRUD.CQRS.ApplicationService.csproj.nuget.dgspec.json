@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.ApplicationService\\CRUD.CQRS.ApplicationService.csproj": {}
+    "E:\\.Net Projct\\CQRSTask\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.ApplicationService\\CRUD.CQRS.ApplicationService.csproj": {}
   },
   "projects": {
-    "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Domain\\CRUD.CQRS.Domain.csproj": {
+    "E:\\.Net Projct\\CQRSTask\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Domain\\CRUD.CQRS.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Domain\\CRUD.CQRS.Domain.csproj",
+        "projectUniqueName": "E:\\.Net Projct\\CQRSTask\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Domain\\CRUD.CQRS.Domain.csproj",
         "projectName": "CRUD.CQRS.Domain",
-        "projectPath": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Domain\\CRUD.CQRS.Domain.csproj",
-        "packagesPath": "C:\\Users\\M4hs4\\.nuget\\packages\\",
-        "outputPath": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Domain\\obj\\",
+        "projectPath": "E:\\.Net Projct\\CQRSTask\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Domain\\CRUD.CQRS.Domain.csproj",
+        "packagesPath": "C:\\Users\\m.darghayedi\\.nuget\\packages\\",
+        "outputPath": "E:\\.Net Projct\\CQRSTask\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\M4hs4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\m.darghayedi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -75,17 +78,20 @@
         }
       }
     },
-    "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.ApplicationService\\CRUD.CQRS.ApplicationService.csproj": {
+    "E:\\.Net Projct\\CQRSTask\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.ApplicationService\\CRUD.CQRS.ApplicationService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.ApplicationService\\CRUD.CQRS.ApplicationService.csproj",
+        "projectUniqueName": "E:\\.Net Projct\\CQRSTask\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.ApplicationService\\CRUD.CQRS.ApplicationService.csproj",
         "projectName": "CRUD.CQRS.ApplicationService",
-        "projectPath": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.ApplicationService\\CRUD.CQRS.ApplicationService.csproj",
-        "packagesPath": "C:\\Users\\M4hs4\\.nuget\\packages\\",
-        "outputPath": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.ApplicationService\\obj\\",
+        "projectPath": "E:\\.Net Projct\\CQRSTask\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.ApplicationService\\CRUD.CQRS.ApplicationService.csproj",
+        "packagesPath": "C:\\Users\\m.darghayedi\\.nuget\\packages\\",
+        "outputPath": "E:\\.Net Projct\\CQRSTask\\CRUD-CQRS\\CRUD-CQRS\\CRUD.CQRS.ApplicationService\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\M4hs4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\m.darghayedi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -99,8 +105,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Domain\\CRUD.CQRS.Domain.csproj": {
-                "projectPath": "F:\\Projects\\NetCore\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Domain\\CRUD.CQRS.Domain.csproj"
+              "E:\\.Net Projct\\CQRSTask\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Domain\\CRUD.CQRS.Domain.csproj": {
+                "projectPath": "E:\\.Net Projct\\CQRSTask\\CRUD-CQRS\\CRUD-CQRS\\CRUD-CQRS.Domain\\CRUD.CQRS.Domain.csproj"
               }
             }
           }
@@ -115,6 +121,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
             "MediatR": {
               "target": "Package",
               "version": "[10.0.1, )"
