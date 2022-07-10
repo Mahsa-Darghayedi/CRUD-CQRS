@@ -231,26 +231,28 @@ F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\bi
 F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\bin\Debug\net6.0\CRUD.CQRS.Domain.dll
 F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\bin\Debug\net6.0\CRUD.CQRS.Domain.pdb
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\bin\Debug\net6.0\CoverletSourceRootsMapping
-E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\bin\Debug\net6.0\appsettings.Development.json
-E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\bin\Debug\net6.0\appsettings.json
-E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\bin\Debug\net6.0\testhost.exe
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\bin\Debug\net6.0\testhost.dll
-E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
-E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
-E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\bin\Debug\net6.0\CRUD.CQRS.ApplicationService.deps.json
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\bin\Debug\net6.0\CRUD.CQRS.ApplicationService.runtimeconfig.json
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\bin\Debug\net6.0\CRUD.CQRS.Domain.deps.json
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\bin\Debug\net6.0\CRUD.CQRS.Domain.runtimeconfig.json
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\bin\Debug\net6.0\CRUD.CQRS.Domain.exe
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\bin\Debug\net6.0\appsettings.Development.json
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\bin\Debug\net6.0\appsettings.json
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\bin\Debug\net6.0\CRUD.CQRS.ApplicationService.exe
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\bin\Debug\net6.0\testhost.exe
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\bin\Debug\net6.0\CRUD.CQRS.Test.ServicesTest.deps.json
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\bin\Debug\net6.0\CRUD.CQRS.Test.ServicesTest.runtimeconfig.json
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\bin\Debug\net6.0\CRUD.CQRS.Test.ServicesTest.dll
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\bin\Debug\net6.0\ref\CRUD.CQRS.Test.ServicesTest.dll
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\bin\Debug\net6.0\CRUD.CQRS.Test.ServicesTest.pdb
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\bin\Debug\net6.0\EventStore.ClientAPI.dll
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\bin\Debug\net6.0\FluentValidation.dll
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\bin\Debug\net6.0\PhoneNumbers.dll
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\bin\Debug\net6.0\MediatR.dll
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\bin\Debug\net6.0\MediatR.Contracts.dll
@@ -355,5 +357,3 @@ E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\obj\Debu
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\obj\Debug\net6.0\ref\CRUD.CQRS.Test.ServicesTest.dll
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\obj\Debug\net6.0\CRUD.CQRS.Test.ServicesTest.pdb
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\obj\Debug\net6.0\CRUD.CQRS.Test.ServicesTest.genruntimeconfig.cache
-E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\bin\Debug\net6.0\FluentValidation.dll
-E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.Test.ServicesTest\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll

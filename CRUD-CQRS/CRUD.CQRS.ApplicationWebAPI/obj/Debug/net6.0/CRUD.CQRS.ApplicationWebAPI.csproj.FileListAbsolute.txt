@@ -111,24 +111,14 @@ F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bi
 F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\CRUD.CQRS.Domain.dll
 F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\CRUD.CQRS.Domain.pdb
 F:\Projects\NetCore\CRUD-CQRS\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\CRUD.CQRS.ApplicationService.pdb
-E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.csproj.AssemblyReference.cache
-E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.GeneratedMSBuildEditorConfig.editorconfig
-E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.AssemblyInfoInputs.cache
-E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.AssemblyInfo.cs
-E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.csproj.CoreCompileInputs.cache
-E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.MvcApplicationPartsAssemblyInfo.cs
-E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.MvcApplicationPartsAssemblyInfo.cache
-E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.dll
-E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\ref\CRUD.CQRS.ApplicationWebAPI.dll
-E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.pdb
-E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\appsettings.Development.json
-E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\appsettings.json
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\CRUD.CQRS.Domain.deps.json
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\CRUD.CQRS.Domain.runtimeconfig.json
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\CRUD.CQRS.Domain.exe
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\CRUD.CQRS.ApplicationService.deps.json
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\CRUD.CQRS.ApplicationService.runtimeconfig.json
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\CRUD.CQRS.ApplicationService.exe
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\appsettings.json
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.exe
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.deps.json
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.runtimeconfig.json
@@ -136,6 +126,9 @@ E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debu
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\ref\CRUD.CQRS.ApplicationWebAPI.dll
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.pdb
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\EventStore.ClientAPI.dll
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\FluentValidation.dll
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\PhoneNumbers.dll
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\MediatR.dll
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\MediatR.Contracts.dll
@@ -158,11 +151,18 @@ E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debu
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\CRUD.CQRS.Domain.dll
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\CRUD.CQRS.Domain.pdb
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\CRUD.CQRS.ApplicationService.pdb
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.csproj.AssemblyReference.cache
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.AssemblyInfoInputs.cache
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.AssemblyInfo.cs
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.csproj.CoreCompileInputs.cache
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.MvcApplicationPartsAssemblyInfo.cache
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\staticwebassets.build.json
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\staticwebassets.development.json
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\scopedcss\bundle\CRUD.CQRS.ApplicationWebAPI.styles.css
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.csproj.CopyComplete
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.dll
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\ref\CRUD.CQRS.ApplicationWebAPI.dll
+E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.pdb
 E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\obj\Debug\net6.0\CRUD.CQRS.ApplicationWebAPI.genruntimeconfig.cache
-E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\FluentValidation.dll
-E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
-E:\.Net Projct\CQRSTask\CRUD-CQRS\CRUD-CQRS\CRUD.CQRS.ApplicationWebAPI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
